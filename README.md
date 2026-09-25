@@ -1,6 +1,7 @@
 # Car Rental Project
 ## Overview
 A system to rent cars as a customer, taking into account the availability of said cars. While as a manager of the system, you can add, edit, and delete cars from the database.
+
 This project was the finals project for my beginners' Python university course, using **Python** and the **file-handling** in Python for the logic, and  **prettytable** for the UI.
 
 This project uses a simple UI ran on the terminal with numbers next texts to indicate actions. After errors, and seeing an empty table, or successfully renting a car, using the **time** built-in Python library, natural pauses occur before returning to the last tree.
